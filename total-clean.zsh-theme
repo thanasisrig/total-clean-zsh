@@ -2,7 +2,7 @@
 # Made by : Thanasis Rigopoulos
 
 eval red='$FG[124]'
-eval green='$FG[112]'
+eval green='$FG[085]'
 eval yellow='$FG[227]'
 eval blue='$FG[069]'
 eval magenta='$FG[214]'
