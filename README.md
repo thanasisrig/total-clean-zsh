@@ -3,7 +3,7 @@
 
 > A aminimal theme for [ZSH](http://zsh.org).
 
-![Screenshot](/total-clean-zsh/total-clean-zsh-intro.gif)
+![Screenshot](https://github.com/thanasisrig/total-clean-zsh/blob/master/total-clean-zsh-intro.gif)
 
 ## Installation
 
